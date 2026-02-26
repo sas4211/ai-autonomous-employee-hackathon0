@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:27:59Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19995d865a63a379",
+    "task_file": "EMAIL_19995d865a63a379.md",
+    "from": "Spotify <no-reply@spotify.com>",
+    "subject": "Welcome to Premium Family"
+  }
+}

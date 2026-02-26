@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:06Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1940ef5badb447fb",
+    "task_file": "EMAIL_1940ef5badb447fb.md",
+    "from": "Team Shelby <no-reply@zoom.us>",
+    "subject": "She Sells Masterclass Confirmation"
+  }
+}

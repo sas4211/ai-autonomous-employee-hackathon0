@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:33Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "197ad3485a4002f0",
+    "task_file": "EMAIL_197ad3485a4002f0.md",
+    "from": "\"National Vocational & Technical Training Initiative\" <enquiries.department@nvtti.pk>",
+    "subject": "Congratulations! You've Passed the NVTTI Admission Test"
+  }
+}

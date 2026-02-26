@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:01Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1973a84d6dc14d85",
+    "task_file": "EMAIL_1973a84d6dc14d85.md",
+    "from": "Forward Learners <no-reply@zoom.us>",
+    "subject": "Mandatory Lead Forward Webinar Confirmation"
+  }
+}

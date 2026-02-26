@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:30Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "197c6dcdd8b7e560",
+    "task_file": "EMAIL_197c6dcdd8b7e560.md",
+    "from": "\"Idaratut Ta'reef al Shakhsi *\" <noreply@its52.com>",
+    "subject": "20375254 - Pass Allocation for Relay Centre - Colombo 1447H (Colombo)"
+  }
+}

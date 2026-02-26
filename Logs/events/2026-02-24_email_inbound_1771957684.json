@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:04Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "194ae67633434335",
+    "task_file": "EMAIL_194ae67633434335.md",
+    "from": "OpenPhone <hello@openphone.com>",
+    "subject": "How to set your business hours and voicemail"
+  }
+}

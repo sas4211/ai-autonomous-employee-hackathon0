@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:45Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "195d7faeac2a825c",
+    "task_file": "EMAIL_195d7faeac2a825c.md",
+    "from": "LinkedIn <security-noreply@linkedin.com>",
+    "subject": "Samina, please verify your new device"
+  }
+}

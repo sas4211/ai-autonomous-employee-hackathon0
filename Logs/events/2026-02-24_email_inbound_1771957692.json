@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:12Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1921ec49cd9176cb",
+    "task_file": "EMAIL_1921ec49cd9176cb.md",
+    "from": "Abi Connick <contact@abiconnick.co.uk>",
+    "subject": "Why you should ignore pricing advice."
+  }
+}

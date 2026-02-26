@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:13Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "190bf7a8be0c6ea7",
+    "task_file": "EMAIL_190bf7a8be0c6ea7.md",
+    "from": "PTA Device Registration System <noc@pta.gov.pk>",
+    "subject": "Account Access Verification"
+  }
+}

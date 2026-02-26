@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:24Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "198abe240e6fbf42",
+    "task_file": "EMAIL_198abe240e6fbf42.md",
+    "from": "Pranav from Replicate <team@replicate.email>",
+    "subject": "Replicate for enterprise"
+  }
+}

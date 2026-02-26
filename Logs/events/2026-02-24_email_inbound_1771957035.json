@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:15Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19c84f10d1555140",
+    "task_file": "EMAIL_19c84f10d1555140.md",
+    "from": "GitHub <noreply@github.com>",
+    "subject": "[GitHub] A personal access token (classic) has been added to your account"
+  }
+}

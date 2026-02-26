@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:16Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19c2ffe32ba1519c",
+    "task_file": "EMAIL_19c2ffe32ba1519c.md",
+    "from": "GitHub <noreply@github.com>",
+    "subject": "[GitHub] Your personal access token (classic) is about to expire"
+  }
+}

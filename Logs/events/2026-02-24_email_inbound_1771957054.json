@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:34Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "197a1a95a72ba814",
+    "task_file": "EMAIL_197a1a95a72ba814.md",
+    "from": "estatement@bankalhabib.com",
+    "subject": "Credit Card E-Statement - [BAHL](Credit Card No:5121-XXXX-XX05-5048) of SAMINA AMIR SAFDARI"
+  }
+}

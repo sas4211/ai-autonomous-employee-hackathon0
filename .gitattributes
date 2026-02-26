@@ -1,0 +1,12 @@
+# Normalize line endings: LF in repo, checkout as-is on each OS
+* text=auto eol=lf
+
+# Force LF for scripts (must not be CRLF on Linux cloud VM)
+*.py text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+
+# Binary files — no line ending conversion
+*.png binary
+*.jpg binary
+*.pdf binary

@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:28Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "197e00c76423cc90",
+    "task_file": "EMAIL_197e00c76423cc90.md",
+    "from": "Mercury <hello@mercury.com>",
+    "subject": "Action required: unfreeze your card to avoid declined transactions"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:14Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "18fc39476580155d",
+    "task_file": "EMAIL_18fc39476580155d.md",
+    "from": "The Google Account Team <no-reply@accounts.google.com>",
+    "subject": "\u2705 Asma, finish setting up your Galaxy Note20 Ultra 5G device with Google"
+  }
+}

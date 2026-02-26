@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:25Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19874ac5e39d4a28",
+    "task_file": "EMAIL_19874ac5e39d4a28.md",
+    "from": "Jazz Billing <do-not-reply@jazz.com.pk>",
+    "subject": "Jazz Postpaid Bill for 3212006831"
+  }
+}

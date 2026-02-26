@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:17Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19bb7aec76ab1248",
+    "task_file": "EMAIL_19bb7aec76ab1248.md",
+    "from": "Selby Jennings Team <messaging-service@post.xero.com>",
+    "subject": "Action Required: Quick Review Requested \u2013 Selby Careers"
+  }
+}

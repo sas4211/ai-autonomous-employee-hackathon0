@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:27Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "197f01b8f52a7df9",
+    "task_file": "EMAIL_197f01b8f52a7df9.md",
+    "from": "ngrok <contact@ngrok.com>",
+    "subject": "Password reset for ngrok.com"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:44Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "195e5e94c555fb18",
+    "task_file": "EMAIL_195e5e94c555fb18.md",
+    "from": "MongoDB Atlas <mongodb-atlas@mongodb.com>",
+    "subject": "Your MongoDB Atlas M0 cluster will be automatically paused in 7 days"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:26Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1981cb3465c44e9c",
+    "task_file": "EMAIL_1981cb3465c44e9c.md",
+    "from": "Meezan Bank <no-reply@meezanbank.com>",
+    "subject": "Goodbye SMS Alerts \u2013 Hello Push Notifications!"
+  }
+}

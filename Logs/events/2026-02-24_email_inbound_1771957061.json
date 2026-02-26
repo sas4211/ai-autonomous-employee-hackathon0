@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:41Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1967b9ebe2fb48b6",
+    "task_file": "EMAIL_1967b9ebe2fb48b6.md",
+    "from": "Microsoft account team <account-security-noreply@accountprotection.microsoft.com>",
+    "subject": "Your single-use code"
+  }
+}

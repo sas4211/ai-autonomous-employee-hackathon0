@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:03Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1950a9048b2e9e46",
+    "task_file": "EMAIL_1950a9048b2e9e46.md",
+    "from": "\"Automation Incubator (Skool)\" <noreply@skool.com>",
+    "subject": "Weekly digest for Sat, Feb 8 2025"
+  }
+}

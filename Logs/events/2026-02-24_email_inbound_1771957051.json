@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:31Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "197bb2bfb8cb2f0c",
+    "task_file": "EMAIL_197bb2bfb8cb2f0c.md",
+    "from": "\"Idaratut Ta'reef al Shakhsi\" <noreply@its52.com>",
+    "subject": "4th Moharram ul Haraam 1447H - Feedback Survey"
+  }
+}

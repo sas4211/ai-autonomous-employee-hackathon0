@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:19Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19b239b79d162396",
+    "task_file": "EMAIL_19b239b79d162396.md",
+    "from": "\"OpenRouter, Inc\" <invoice+statements@openrouter.ai>",
+    "subject": "Your receipt from OpenRouter, Inc #2067-6949"
+  }
+}

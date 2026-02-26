@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:38Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1973a745052c044c",
+    "task_file": "EMAIL_1973a745052c044c.md",
+    "from": "Soneri Digital Banking Alerts <digitalbankingalerts@soneribank.com>",
+    "subject": "Soneri Digital Banking PIN reset notification"
+  }
+}

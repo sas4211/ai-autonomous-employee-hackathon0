@@ -1,0 +1,48 @@
+# ── Secrets & credentials (NEVER commit) ─────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# Claude agent state (contains OAuth tokens + session data)
+.claude/gmail_token.json
+.claude/whatsapp_session/
+.claude/wiggum_state.json
+.claude/social_watcher_state.json
+.claude/gmail_processed_ids.json
+.claude/finance_watcher_state.json
+.claude/pids/
+
+# ── Python ───────────────────────────────────────────────────────────────────
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ── Obsidian ─────────────────────────────────────────────────────────────────
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+# Keep .obsidian/app.json and plugins for reproducibility — exclude below if not wanted
+# .obsidian/
+
+# ── Logs (generated, not source) ─────────────────────────────────────────────
+logs/scheduler.log
+logs/scheduler_err.log
+logs/sync.log
+
+# ── OS noise ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── PM2 ──────────────────────────────────────────────────────────────────────
+.pm2/
+
+# ── Node ─────────────────────────────────────────────────────────────────────
+node_modules/
+
+# ── Windows reserved device name (created accidentally) ──────────────────────
+nul

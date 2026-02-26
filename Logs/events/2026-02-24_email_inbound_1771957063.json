@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:43Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1962a0120bac4f8f",
+    "task_file": "EMAIL_1962a0120bac4f8f.md",
+    "from": "UBL e-statement <e.statement@ubl.com.pk>",
+    "subject": "UBL Go-Green Monthly e-statement: 24*****56"
+  }
+}

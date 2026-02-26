@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:23Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "198dcf44d987b0d6",
+    "task_file": "EMAIL_198dcf44d987b0d6.md",
+    "from": "Stripe <notifications@stripe.com>",
+    "subject": "Suspected fraudulent payment on your Stripe account"
+  }
+}

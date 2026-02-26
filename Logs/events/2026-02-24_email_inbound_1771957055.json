@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:35Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1979dcc47186e151",
+    "task_file": "EMAIL_1979dcc47186e151.md",
+    "from": "\"Idaratut Ta'reef al Shakhsi (ITS)\" <noreply@its52.com>",
+    "subject": "AMIC Newsletter - June- 2025 - From your Jamaat"
+  }
+}

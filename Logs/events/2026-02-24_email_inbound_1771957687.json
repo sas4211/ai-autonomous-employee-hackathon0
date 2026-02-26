@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:07Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1935e8546294487a",
+    "task_file": "EMAIL_1935e8546294487a.md",
+    "from": "Contrarian Thinking <no-reply@zoom.us>",
+    "subject": "Deal Breakdown and Analysis [Last One of 2024!] Confirmation"
+  }
+}

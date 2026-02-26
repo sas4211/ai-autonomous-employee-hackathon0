@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:02Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19667308b56374d7",
+    "task_file": "EMAIL_19667308b56374d7.md",
+    "from": "Forward Learners <forward_learners@mail.mckinsey.com>",
+    "subject": "Asma, your application is accepted - Activate your Forward learning account now!"
+  }
+}

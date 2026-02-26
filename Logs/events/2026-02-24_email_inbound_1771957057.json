@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:37Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1973e8af687ca85b",
+    "task_file": "EMAIL_1973e8af687ca85b.md",
+    "from": "\"no-reply@fayzehusayni.net\" <no-reply@fayzehusayni.net>",
+    "subject": "UMRAH DISCOUNT PACKAGE"
+  }
+}

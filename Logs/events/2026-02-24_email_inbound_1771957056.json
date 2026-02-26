@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:36Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19796d17988b227d",
+    "task_file": "EMAIL_19796d17988b227d.md",
+    "from": "\"Idaratut Ta'reef al Shakhsi\" <noreply@its52.com>",
+    "subject": "Waaz Center Preference Survey Pending"
+  }
+}

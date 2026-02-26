@@ -1,0 +1,56 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\Amena\\Desktop\\ai-empolyee"
+      ],
+      "description": "Read/write/move/delete files within the AI Employee vault"
+    },
+    "communications": {
+      "command": "python",
+      "args": ["mcp_servers/communications.py"],
+      "cwd": "C:\\Users\\Amena\\Desktop\\ai-empolyee",
+      "description": "External comms: send_email (SMTP), post_to_linkedin, send_whatsapp_message, log_to_vault"
+    },
+    "odoo": {
+      "command": "python",
+      "args": ["mcp_servers/odoo.py"],
+      "cwd": "C:\\Users\\Amena\\Desktop\\ai-empolyee",
+      "description": "Odoo 19 JSON-RPC: accounting summary, invoices, sales, customers, cashflow, create_invoice"
+    },
+    "social_media": {
+      "command": "python",
+      "args": ["mcp_servers/social_media.py"],
+      "cwd": "C:\\Users\\Amena\\Desktop\\ai-empolyee",
+      "description": "Facebook, Instagram, Twitter/X: post content, read insights, get mentions, social summary"
+    },
+    "browser": {
+      "command": "npx",
+      "args": ["-y", "@anthropic/browser-mcp"],
+      "env": {
+        "HEADLESS": "true"
+      },
+      "description": "Browser automation: navigate pages, click, fill forms — used for payment portals and web automation"
+    },
+    "calendar": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-google-calendar"],
+      "env": {
+        "GOOGLE_OAUTH_CREDENTIALS": "C:\\Users\\Amena\\Desktop\\ai-empolyee\\.claude\\gmail_token.json"
+      },
+      "description": "Google Calendar: create events, update schedules, check availability"
+    },
+    "slack": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-slack"],
+      "env": {
+        "SLACK_BOT_TOKEN": "${SLACK_BOT_TOKEN}",
+        "SLACK_TEAM_ID": "${SLACK_TEAM_ID}"
+      },
+      "description": "Slack: send messages, read channels, notify team"
+    }
+  }
+}

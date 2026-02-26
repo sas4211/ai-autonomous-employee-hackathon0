@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:18Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19b8ed559c7b095a",
+    "task_file": "EMAIL_19b8ed559c7b095a.md",
+    "from": "Applause Platform Admin <no-reply@applauseplatform.com>",
+    "subject": "Security Notice: Payment information changes on your uTest account"
+  }
+}

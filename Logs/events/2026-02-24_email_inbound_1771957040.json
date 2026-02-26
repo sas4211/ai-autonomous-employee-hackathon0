@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:20Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19a74968fa4f176a",
+    "task_file": "EMAIL_19a74968fa4f176a.md",
+    "from": "GitHub <noreply@github.com>",
+    "subject": "[GitHub] A third-party OAuth application has been added to your account"
+  }
+}

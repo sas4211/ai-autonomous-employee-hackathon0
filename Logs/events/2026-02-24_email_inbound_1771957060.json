@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:40Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "196dd1201ded45dd",
+    "task_file": "EMAIL_196dd1201ded45dd.md",
+    "from": "Discord <noreply@discord.com>",
+    "subject": "asharibali mentioned you in GenAI Initiative"
+  }
+}

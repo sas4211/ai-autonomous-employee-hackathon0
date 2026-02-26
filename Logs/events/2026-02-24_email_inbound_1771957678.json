@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:27:58Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "19bb025c2cc2c69e",
+    "task_file": "EMAIL_19bb025c2cc2c69e.md",
+    "from": "Amena Amir <786amena4211@gmail.com>",
+    "subject": "Fwd: Why the best builders are broke in 2026"
+  }
+}

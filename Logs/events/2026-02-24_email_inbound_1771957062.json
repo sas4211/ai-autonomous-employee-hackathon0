@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:42Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "196543dd93456b82",
+    "task_file": "EMAIL_196543dd93456b82.md",
+    "from": "Upwork Notification <donotreply@upwork.com>",
+    "subject": "A job you applied for was removed"
+  }
+}

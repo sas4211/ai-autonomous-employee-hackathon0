@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:17:29Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "197c7b209c5a1f41",
+    "task_file": "EMAIL_197c7b209c5a1f41.md",
+    "from": "\"Idaratut Ta'reef al Shakhsi\" <noreply@its52.com>",
+    "subject": "Regarding Minhat Talimiyah"
+  }
+}

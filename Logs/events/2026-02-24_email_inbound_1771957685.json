@@ -1,0 +1,11 @@
+{
+  "event_type": "email.inbound",
+  "timestamp": "2026-02-24T18:28:05Z",
+  "source": "GmailWatcher",
+  "payload": {
+    "gmail_id": "1941f101b2d1a672",
+    "task_file": "EMAIL_1941f101b2d1a672.md",
+    "from": "Whop <no-reply@whop.com>",
+    "subject": "Your Remote Roost (Secret Group) is about to renew"
+  }
+}
